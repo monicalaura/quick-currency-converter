@@ -1,6 +1,6 @@
 {
   "name": "currency-converter",
-  "homepage":"https://github.com/monicalaura/quick-currency-converter",  
+  "homepage":"https://monicalaura.github.io/quickcurrencyconverter",  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
